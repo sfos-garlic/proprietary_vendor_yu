@@ -24,8 +24,8 @@ PRODUCT_COPY_FILES += \
     vendor/yu/garlic/proprietary/etc/acdbdata/MTP/MTP_Headset_cal.acdb:system/etc/acdbdata/MTP/MTP_Headset_cal.acdb \
     vendor/yu/garlic/proprietary/etc/acdbdata/MTP/MTP_Speaker_cal.acdb:system/etc/acdbdata/MTP/MTP_Speaker_cal.acdb \
     vendor/yu/garlic/proprietary/etc/thermal-engine.conf:system/etc/thermal-engine.conf \
-    vendor/yu/garlic/proprietary/lib64/hw/fingerprint.elan.so:system/lib64/hw/fingerprint.elan.so \
-    vendor/yu/garlic/proprietary/lib64/hw/fingerprint.goodix.so:system/lib64/hw/fingerprint.goodix.so \
+    vendor/yu/garlic/proprietary/lib64/hw/fingerprint.elan.default.so:system/lib64/hw/fingerprint.elan.default.so \
+    vendor/yu/garlic/proprietary/lib64/hw/fingerprint.goodix.default.so:system/lib64/hw/fingerprint.goodix.default.so \
     vendor/yu/garlic/proprietary/lib64/hw/gxfingerprint.default.so:system/lib64/hw/gxfingerprint.default.so \
     vendor/yu/garlic/proprietary/lib64/libfp_client.so:system/lib64/libfp_client.so \
     vendor/yu/garlic/proprietary/lib64/libfpnav.so:system/lib64/libfpnav.so \
