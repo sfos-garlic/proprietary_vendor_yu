@@ -30,10 +30,10 @@ PRODUCT_COPY_FILES += \
     vendor/yu/garlic/proprietary/lib64/hw/fingerprint.elan.default.so:system/lib64/hw/fingerprint.elan.default.so \
     vendor/yu/garlic/proprietary/lib64/hw/fingerprint.goodix.default.so:system/lib64/hw/fingerprint.goodix.default.so \
     vendor/yu/garlic/proprietary/lib64/hw/sensors.msm8937.so:system/lib64/hw/sensors.msm8937.so \
-    vendor/yu/garlic/proprietary/lib64/libgf_algo.so:system/lib64/libgf_algo.so \
-    vendor/yu/garlic/proprietary/lib64/libgf_ca.so:system/lib64/libgf_ca.so \
-    vendor/yu/garlic/proprietary/lib64/libgf_hal.so:system/lib64/libgf_hal.so \
-    vendor/yu/garlic/proprietary/lib64/libgoodixfingerprintd_binder.so:system/lib64/libgoodixfingerprintd_binder.so \
+    vendor/yu/garlic/proprietary/lib64/hw/gxfingerprint.default.so:system/lib64/hw/gxfingerprint.default.so \
+    vendor/yu/garlic/proprietary/lib64/libfp_client.so:system/lib64/libfp_client.so \
+    vendor/yu/garlic/proprietary/lib64/libfpnav.so:system/lib64/libfpnav.so \
+    vendor/yu/garlic/proprietary/lib64/libfpservice.so:system/lib64/libfpservice.so \
     vendor/yu/garlic/proprietary/vendor/lib/libactuator_bu64244gwz.so:system/vendor/lib/libactuator_bu64244gwz.so \
     vendor/yu/garlic/proprietary/vendor/lib/libactuator_dw9800_imx258_p7201guangbao.so:system/vendor/lib/libactuator_dw9800_imx258_p7201guangbao.so \
     vendor/yu/garlic/proprietary/vendor/lib/libactuator_dw9800_imx258_p7201sunny.so:system/vendor/lib/libactuator_dw9800_imx258_p7201sunny.so \
